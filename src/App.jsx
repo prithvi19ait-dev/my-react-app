@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <nav>
-        <h2>My React App</h2>
+        <h2>My React Application</h2>
         <span>CI/CD DevOps Deployment</span>
       </nav>
 
