@@ -14,7 +14,7 @@ function App() {
         <h1>
           React App
           <br />
-          <span>Deployed Automatically</span>
+          <span>CI/CD Deployed Automatically</span>
         </h1>
 
         <p className="description">
