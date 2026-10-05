@@ -5,7 +5,7 @@ function App() {
     <div className="app">
       <nav>
         <h2>My React Applications</h2>
-        <span>CI/CD DevOps Deployment</span>
+        <span>DevOps Deployment</span>
       </nav>
 
       <main>
